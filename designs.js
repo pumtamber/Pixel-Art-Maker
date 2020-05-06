@@ -47,7 +47,7 @@ function clearGrid(){
 // filling the grid with selected colors
 function fillSquare(){
 
-    this.setAttribute("style", 'background-color: ${color.value}');
+    this.setAttribute("style", `background-color: ${color.value}`);
 
 
 }
