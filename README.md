@@ -1,10 +1,10 @@
 # Pixel Art Maker Project for Udacity
 
 ## Project Overview
-This project was a part of Udacity's [Introduction to Programming]((https://www.udacity.com/course/intro-to-programming-nanodegree--nd000).)
+
+This project was a part of Udacity's [Introduction to Programming]((https://www.udacity.com/course intro-to-programming-nanodegree--nd000).)
 
 In this project, I have use front-end programming skills like HTML, CSS, Python, and Javascript.
-
 
 ## Why this Project
 
